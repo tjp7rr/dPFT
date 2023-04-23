@@ -9,7 +9,7 @@ An overview of dPFT is shown here:
 ![](./static/dPFT_pipeline.gif)
 
 
-#(please note that upon publication the following resources will become available)
+# (please note that upon publication the following resources will become available)
 
 ## Installation
 Please see [INSTALLATION.md](INSTALLATION.md) for installation instructions.
