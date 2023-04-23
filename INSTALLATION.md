@@ -1,4 +1,4 @@
-# dvPFT (DDR-based Virtual Pulmonary Function Test) installation instructions.
+# dPFT (DDR-based Pulmonary Function Test) installation instructions.
 ### Contact: thomas.pisano@pennmedicine.upenn.edu
 
 
@@ -9,13 +9,13 @@
 ## Python installation
 We suggest using manager like [anaconda](https://www.anaconda.com/download/).
 
-The file in this github repository called: `dvPFT_environment.yml` contains the configuration of the specific anaconda environment used for dvPFT. Install the anaconda environment by running the command:
+The file in this github repository called: `dPFT_environment.yml` contains the configuration of the specific anaconda environment used for dvPFT. Install the anaconda environment by running the command:
 ```
-conda env create -f dvPFT_environment.yml
+conda env create -f dPFT_environment.yml
 ```
-This will create an anaconda environment called `dvPFT` on your machine. Activate the environment by running:
+This will create an anaconda environment called `dPFT` on your machine. Activate the environment by running:
 ```
-conda activate dvPFT
+conda activate dPFT
 ```
 
 ## SLEAP installation
