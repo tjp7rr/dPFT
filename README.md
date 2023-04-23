@@ -1,12 +1,12 @@
-# dvPFT (DDR-based Virtual Pulmonary Function Test)
+# dPFT (DDR-based Pulmonary Function Test)
 
-![plot](./static/dvPFT_pipeline.png)
+![plot](./static/dPFT_pipeline.png)
 
 DAV-PFT [Santibanez, V., Pisano, T.J., et al. 2023](https:....) is an automated lung analysis pipeline that takes raw dynamic digital radiography (DDR) videos and outputs virtual pulmonary function test (PFT) data. This is accomplished using convolutional neural networks for serial anatomical detection across frames.
 
 An overview of dvPFT is shown here:
 
-![](./static/dvPFT_pipeline.gif)
+![](./static/dPFT_pipeline.gif)
 
 ## Installation
 Please see [INSTALLATION.md](INSTALLATION.md) for installation instructions.
