@@ -2,7 +2,7 @@
 
 ![plot](./static/dPFT_pipeline.png)
 
-dPFT ([Santibanez, V., Pisano, T.J., et al. 2024](https:....)) are generated using an automated lung analysis pipeline that takes raw dynamic digital radiography (DDR) videos and outputs digital pulmonary function test (dPFT) data. This is accomplished using convolutional neural networks for serial anatomical detection across frames.
+dPFT ([Santibanez, V., Pisano, T.J., et al. 2024](https:....)) are generated using an automated lung analysis pipeline that takes raw dynamic digital radiography (DDR) videos and outputs DDR-based Pulmonary Function Test (dPFT) data. This is accomplished using convolutional neural networks for serial anatomical detection across frames.
 
 An overview of dPFT is shown here:
 
